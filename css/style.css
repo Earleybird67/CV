@@ -9,7 +9,6 @@ body
 h1
 {
   color: rgb(27, 26, 23);
-  padding-left: 10px;
 }
 
 table, h2, h3, p, tr
@@ -39,15 +38,18 @@ hr
 
 .BriefDescription
 {
+  padding-left: 10px;
   width: auto;
   height: auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
 }
 
 .profile-pic-class
 {
   width: auto;
   height: auto;
-  padding: 10px;
   display: flex;
   flex-direction: row;
 }
