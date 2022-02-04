@@ -41,7 +41,6 @@ hr
 {
   width: auto;
   height: auto;
-  padding-top: 15px;
 }
 
 .profile-pic-class
@@ -49,7 +48,8 @@ hr
   width: auto;
   height: auto;
   padding: 10px;
-
+  display: flex;
+  flex-direction: row;
 }
 
 #profile-pic
