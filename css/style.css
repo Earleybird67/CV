@@ -58,5 +58,7 @@ hr
   border: 2px solid rgb(27, 26, 23);
   max-width: 200px;
   max-height: 200px;
+  width: 200px;
+  height: 200px;
   margin: 10px 0px 10px 10px;
 }
