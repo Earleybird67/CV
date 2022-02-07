@@ -5,6 +5,8 @@ body
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Arial;
+  margin: 5%;
+  margin-top: 0;
 }
 
 span
@@ -21,7 +23,7 @@ hr
     opacity: 0.4;
 }
 
-#WelcomeHeader
+#WelcomeHeader, p
 {
   text-align: center;
 }
