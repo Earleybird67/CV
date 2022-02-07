@@ -4,6 +4,50 @@ body
   background-image: url('../images/bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: Arial;
+}
+
+span
+{
+  text-decoration: underline;
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 30%;
+    opacity: 0.4;
+}
+
+#WelcomeHeader
+{
+  text-align: center;
+}
+
+#profilePic
+{
+  border-radius: 45%;
+  max-width: 300px;
+  border-style: solid;
+}
+
+.imageHeader
+{
+  max-width: 150px;
+  max-height: 200px;
+}
+
+
+
+/*
+body
+{
+  background-attachment: fixed;
+  background-image: url('../images/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1
@@ -28,12 +72,8 @@ flex-direction: row;
 
 hr
 {
-  color: rgb(27, 26, 23);
-  border-style:  solid;
-  border-width: 0.5px;
-  width: 30%;
   border-style: dotted;
-  align: left;
+  border-width: 0.5px;
 }
 
 .BriefDescription
@@ -64,3 +104,4 @@ hr
   height: 200px;
   margin: 10px 0px 10px 10px;
 }
+*/
