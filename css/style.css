@@ -4,7 +4,8 @@ body
   background-image: url('../images/bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: Arial;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 100%;
   margin: 5%;
   margin-top: 0;
   margin-bottom: 0;
